@@ -12,6 +12,6 @@ This would naturally make it less accurate at high C-rates vs SPMe/DFN.
 
 ## Project 2 — SPM vs SPMe across C-rate
 
-**Question:** When does electrolyte physics matter?
+When does electrolyte physics matter?
 
 I compared SPM (solid diffusion + kinetics) vs SPMe (adds electrolyte transport) for discharge at 0.5C, 1C, 2C, 3C using Chen2020 parameters.
